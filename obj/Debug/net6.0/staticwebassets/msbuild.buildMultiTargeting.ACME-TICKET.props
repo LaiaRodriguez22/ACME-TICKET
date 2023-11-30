@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ACME-TICKET.props" />
+</Project>

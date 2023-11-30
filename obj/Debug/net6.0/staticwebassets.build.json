@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1bjjWrzHcg5MNchz3iq6d1jsf3Ak2jZwN8w3ySvJTws=",
+  "Source": "ACME-TICKET",
+  "BasePath": "_content/ACME-TICKET",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
