@@ -1,6 +1,6 @@
 export const environment = {
       production:false,
       endpoint: {
-        tickets: 'https://localhost:7193/'
+        tickets: 'https://localhost:7096/'
       }
 };
